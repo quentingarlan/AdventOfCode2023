@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj": {}
+    "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj": {
+    "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj",
+        "projectUniqueName": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj",
         "projectName": "Day1",
-        "projectPath": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj",
+        "projectPath": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\AdventOfCode2023\\Day1\\Day1.csproj",
         "packagesPath": "C:\\Users\\qgarlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\Day1\\obj\\",
+        "outputPath": "C:\\Users\\qgarlan\\source\\repos\\AdventOfCode2023\\AdventOfCode2023\\AdventOfCode2023\\Day1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\qgarlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
